@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611803498 source:f:\codeblock\nqueens\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+
